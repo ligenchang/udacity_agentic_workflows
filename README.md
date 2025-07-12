@@ -33,3 +33,6 @@ You will find instructions for each of the two phases of the project in the READ
 
 ### knowledge_augmented_prompt_agent
 ![knowledge_augmented_prompt_agent](img/knowledge_augmented_prompt_agent.py.png)
+
+### rag_knowledge_prompt_agent
+![rag_knowledge_prompt_agent](img/rag_knowledge_prompt_agent.py.png)
